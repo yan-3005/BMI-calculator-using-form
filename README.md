@@ -1,6 +1,6 @@
-# dummy_app1
+## BMI CALCULATOR
 
-A new Flutter application.
+This app is designed originally to calculate BMI. We use form widgets and page navigation here.
 
 ## Getting Started
 
